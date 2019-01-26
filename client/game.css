@@ -1,0 +1,18 @@
+html {
+    background-color: #8d2141;
+    color: #fff;
+}
+
+body { 
+    margin: 0;
+}
+
+canvas {
+    border: 1px solid white;
+}
+
+/*
+#8d2141
+#d95551
+#fc8f63
+#fcd97d*/

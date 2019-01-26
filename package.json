@@ -1,0 +1,17 @@
+{
+  "name": "ducks",
+  "subdomain": "mgatland-ducks",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "version": "0.0.0-2",
+  "engines": {
+    "node": "8.1.x",
+    "npm": "5.2.x"
+  },
+  "dependencies": {
+    "express": "^4.16.4",
+    "sendgrid": "^2.0.0",
+    "socket.io": "^2.2.0"
+  }
+}
